@@ -1,0 +1,3 @@
+# Aerell Stickman Game
+
+This is a experiment repo for me to make a game with yellow programing language, i'm to lazy for make this, but yeah, i'm just try, because my bos ordered me to...
